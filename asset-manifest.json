@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/anilworkshop/static/css/main.f855e6bc.css",
-    "main.js": "/anilworkshop/static/js/main.b26bce20.js",
+    "main.js": "/anilworkshop/static/js/main.887ef893.js",
     "static/js/453.65370fa0.chunk.js": "/anilworkshop/static/js/453.65370fa0.chunk.js",
     "static/media/logo.svg": "/anilworkshop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/anilworkshop/index.html",
     "main.f855e6bc.css.map": "/anilworkshop/static/css/main.f855e6bc.css.map",
-    "main.b26bce20.js.map": "/anilworkshop/static/js/main.b26bce20.js.map",
+    "main.887ef893.js.map": "/anilworkshop/static/js/main.887ef893.js.map",
     "453.65370fa0.chunk.js.map": "/anilworkshop/static/js/453.65370fa0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.b26bce20.js"
+    "static/js/main.887ef893.js"
   ]
 }
